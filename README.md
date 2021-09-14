@@ -11,8 +11,8 @@ Accommodation
 Car rentals
 
  work tools :
--Glade
--Ubuntu
+- Glade
+- Ubuntu
 
 Language:
 - C
