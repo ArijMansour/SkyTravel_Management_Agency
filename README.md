@@ -1,6 +1,6 @@
 # SkyTravel_Management_Agency 
 
-Academic Project (Esprit / SkyTravel):
+Academic Project :
 
 The Sky Travel agency wishes to automate its activities
 through a desktop application. This application must
